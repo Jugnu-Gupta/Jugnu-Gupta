@@ -7,14 +7,13 @@
 <!-- Profile photo -->
 <img align="right" alt="Jugnu Gupta" width="250" src="https://avatars.githubusercontent.com/u/101708726?v=4" /> 
 
-
 <!-- - 🤝 I’m looking for help with **full time** -->
 
 - 💻 Strong in CS fundamentals, DSA & problem solving | 🚀 Passionate about software development and building impactful solutions
 
 - 💬 Ask me about **Competitive Programming**
 
-- 📫 How to reach me **jugnugupta33@gmail.com**
+- 📫 How to reach me **jugnug084@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
